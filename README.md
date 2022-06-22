@@ -1,0 +1,7 @@
+- # sobre mim
+- 👋 Olá meu nome é @emillymachado1b
+- 👍:meu email de contato é fernandes.emilly@escola.pr.gov.br
+- 👀 eu estou interessada em apreder e programar novas linguagens.
+- 🌱 eu estou aprendendo a programar recentemente a linguagem de javascript e Scratch
+-
+-
